@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61ecf564-42c0-4fbb-931e-477ee3b5a2dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/app/(tabs)/agents/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/app/(tabs)/agents/agents.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/app/(tabs)/meetings/AddMeeting.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/app/(tabs)/meetings/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/app/(tabs)/meetings/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/assets/fonts/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/assets/fonts/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/assets/fonts/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/assets/fonts/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/assets/fonts/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/assets/fonts/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/assets/fonts/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/assets/fonts/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/assets/fonts/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/components/CustomButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/components/CustomTextInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/components/MeetingButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/components/SharedMeetingContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/components/TabIcon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/components/modals/AgentModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/components/modals/MeetingModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/contsants/icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingObserver/contsants/images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoteWise/app/Index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoteWise/app/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoteWise/app/agents/Index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoteWise/app/agents/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoteWise/app/meetings/Index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoteWise/app/meetings/_layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoteWise/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoteWise/constants/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReactVoice/app/_layout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/AudioPlayer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/assets/sample.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/assets/transcription.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/.idea/Freelance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/app/(tabs)/_layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/app/(tabs)/explore.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/app/(tabs)/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/app/+html.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/app/+not-found.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/app/TextArea.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../MeetingObserver/app/(tabs)/meetings/LiveMeeting.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/app/_layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/assets/fonts/SpaceMono-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/assets/images/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/assets/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/assets/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/assets/images/partial-react-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/assets/images/react-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/assets/images/react-logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/assets/images/react-logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/assets/images/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/components/Collapsible.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/components/ExternalLink.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/components/HelloWave.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/components/ParallaxScrollView.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/components/ThemedText.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/components/ThemedView.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/components/__tests__/ThemedText-test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/components/__tests__/__snapshots__/ThemedText-test.tsx.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/components/navigation/TabBarIcon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/constants/Colors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/hooks/useColorScheme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/hooks/useColorScheme.web.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/hooks/useThemeColor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/scripts/reset-project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MeetingObserver/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2pJFl3BnBMStwcYb30X5bt76T90" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Projects\\Freelance\\SyncedTranscript\\app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Freelance\SyncedTranscript\app\src" />
+      <recent name="D:\Projects\Freelance\SyncedTranscript\app\assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61ecf564-42c0-4fbb-931e-477ee3b5a2dd" name="Changes" comment="" />
+      <created>1732476419347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732476419347</updated>
+      <workItem from="1732476420973" duration="6566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
